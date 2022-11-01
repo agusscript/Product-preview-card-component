@@ -104,6 +104,11 @@ p {
   height: 20px;
 }
 
+.attribution {
+  position: absolute;
+  bottom: 0;
+}
+
 @media (max-width: 600px) {
   body {
     padding: 1.6rem 0;
@@ -201,5 +206,11 @@ p {
   .cart-btn img {
     width: 18px;
     height: 18px;
+  }
+}
+
+@media (max-height: 600px) {
+  footer {
+    display: none;
   }
 }
