@@ -109,6 +109,14 @@ p {
   bottom: 0;
 }
 
+.attribution p {
+  color: black;
+}
+
+.attribution a:hover {
+  opacity: 0.6;
+}
+
 @media (max-width: 600px) {
   body {
     padding: 1.6rem 0;
@@ -117,6 +125,7 @@ p {
   }
 
   .container {
+    width: 260px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -210,6 +219,12 @@ p {
 }
 
 @media (max-height: 600px) {
+  footer {
+    display: none;
+  }
+}
+
+@media (max-width: 210px) {
   footer {
     display: none;
   }
