@@ -119,7 +119,8 @@ p {
 
 @media (max-width: 600px) {
   body {
-    padding: 1.6rem 0;
+    height: auto;
+    margin: 2rem 0;
   }
 
   .container {
