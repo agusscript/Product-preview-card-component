@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-css-dYfwtXK0E6)
-- Live Site URL: [Add live site URL here](https://agusscript.github.io/Product-preview-card-component/)
+- [Fron End Mentor solution](https://www.frontendmentor.io/solutions/product-preview-card-component-css-dYfwtXK0E6)
+- [Live site](https://agusscript.github.io/Product-preview-card-component/)
 
 ## My process
 
