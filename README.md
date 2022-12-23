@@ -28,6 +28,10 @@ Users should be able to:
 
 ![](images/screenshot.webp)
 
+- Hover Effects
+
+![](images/active-states.webp)
+
 - Mobile view
 
 ![](images/screenshot-mobile.webp)
